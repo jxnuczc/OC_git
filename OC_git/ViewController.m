@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    //这是初始化创建
 }
 
 - (void)didReceiveMemoryWarning {
